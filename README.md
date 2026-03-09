@@ -3,4 +3,4 @@
 
  Repositório criado durante a aula do Curso em Vídeo do Gustavo Guanabara.
 
- Essa linha eu alterei direto do site!
+ Essa linha eu adicionei direto do site!
